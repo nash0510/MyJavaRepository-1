@@ -1,5 +1,10 @@
 class HelloWorld{
-	public static void main(String[] args){
+
+	void mymethod(){
+	sysout("display todays date");
+	}
+
+		public static void main(String[] args){
 		System.out.println("helloworld...Welcome to Git");
 		}
 	}
